@@ -81,6 +81,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#b8b8b8',
   },
   inputBox: {
+    borderRadius: 50,
     marginTop: 50,
     width: '80%',
     alignSelf: 'center',
@@ -90,6 +91,7 @@ const styles = StyleSheet.create({
     outline: 'none',
   },
   goButton: {
+    borderRadius: 50,
     width: '50%',
     height: 55,
     alignSelf: 'center',
